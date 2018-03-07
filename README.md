@@ -29,7 +29,7 @@ jupyter notebook --ip=149.xx.xxx.xxx --port=80xx
 # copy the jupyter url from the terminal into your browser. Done!
 
 # OPTIONAL
-# You can run Jupyter in the background by adding an & symbol to the start command
+# You can run Jupyter in the background by adding a & symbol to the start command
 # This allows you to keep jupyter open while running other commands
 jupyter notebook --ip=149.xx.xxx.xxx --port=80xx &
 
