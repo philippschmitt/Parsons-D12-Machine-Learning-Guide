@@ -7,6 +7,7 @@ This repository is a guide to the Machine Learning computer on D12 (6E 16th St) 
 ## Do I need to use this computer?
 - The computer is for Machine Learning (ML) applications only. Do not mine bitcoin.
 - If you're learning about ML and doing tutorials, chances are you will not need the computer. If you really need it, use it.
+- Do not develop your application on here. Do as much as possible on your own machine.
 
 ## How can I use it?
 To use the computer, you need an account. Please find me on D12 or email me (pschmitt at newschool) to get one. If you're in the Parsons Data Vis ML class, there is a class account prepared for you with all necessary software pre-installed.
