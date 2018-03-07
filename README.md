@@ -14,7 +14,7 @@ To use the computer, you need an account. Please find me on D12 or email me (psc
 To access the computer you will either need to ask a faculty member for access to the room or use SSH. Through SSH, you can access the computer from anywhere on campus.
 
 ### SSH Access
-```
+```bash
 
 # in the terminal connect via ssh:
 ssh <user>@149.xx.xxx.xxx
