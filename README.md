@@ -46,12 +46,23 @@ kill $(pgrep jupyter)
 
 ```
 
+## Useful Commands
+
 ### Copy files from/to the computer via SSH
 
 ```bash
 # from local to remote:
 scp [-r] /local/path <user>@149.xx.xxx.xxx:/remote/path
 
+```
+
+### Check System Load
+```bash
+# see running processes, CPU + memory use
+top
+
+# see GPU load
+nvidia-smi
 ```
 
 
