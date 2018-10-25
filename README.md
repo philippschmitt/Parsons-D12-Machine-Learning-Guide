@@ -14,6 +14,8 @@ To use the computer, you need an account. Please find me on D12 or email me (psc
 
 To access the computer you will either need to ask a faculty member for access to the room or use SSH. Through SSH, you can access the computer from anywhere on campus.
 
+**It is important that you check if someone else is using the computer before you start your own process**. Even if the GPU is not at capacity, it cannot run two projects in parallel, slowing down everyone. Run the commands in the section *Check System Load* below and see if there are running processes that use a lot of memory or CPU/GPU load. In that case the process should display the name of its owner, for example "pschmitt". Owner names are @newschool email addresses. Contact the person directly to coordinate when the machine becomes available.
+
 ### SSH Access
 ```bash
 
@@ -57,6 +59,7 @@ scp [-r] /local/path <user>@149.xx.xxx.xxx:/remote/path
 ```
 
 ### Check System Load
+
 ```bash
 # see running processes, CPU + memory use
 top
